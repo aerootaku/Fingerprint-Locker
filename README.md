@@ -42,7 +42,7 @@ TODO:
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [animeotaku](https://github.com/aerootaku)
+* **KIO HOVIERA** - *Initial work* - [animeotaku](https://github.com/aerootaku)
 
 ## License
 
